@@ -9,7 +9,7 @@ This section's first tutorial explains Liferay Marketplace-related concepts and
 informs you of decisions to make before starting the publishing process from
 your portal. Then you'll learn how to get resources, such as your app's icon,
 screenshots to show off your app, and a comprehensive description of your app,
-ready for the publishing process. After that, you'll learn the the step-by-step
+ready for the publishing process. After that, you'll learn the step-by-step
 process of submitting your app to the Marketplace. Lastly, you'll learn how to
 monitor your app's success on Liferay Marketplace and modify or add new versions
 of your app to the Markeplace. 
